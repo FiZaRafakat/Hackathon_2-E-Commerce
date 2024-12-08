@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hackathon Project: UI/UX Design for a Website
 
-## Getting Started
 
-First, run the development server:
+## 🚀 Purpose
+This project was created as part of a hackathon challenge, where participants were required to individually complete the task within 24 hours. The hackathon aimed to test the skills of 15,000 participants in creating responsive, pixel-perfect UI/UX designs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🎯 Key Objectives:
+- Design a website with a focus on **UI/UX principles**.
+- Ensure **responsiveness** across various devices.
+- Achieve **pixel-perfect precision** in the implementation.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tools and Technologies Used
+- **Next.js:** Utilized static routing for navigation between pages and dynamic routing to display project details.
+- **Tailwind CSS:** Applied styling properties efficiently for responsiveness and design consistency.
+- **shadcn Library:** Integrated components for enhanced UI/UX.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 📋 Template Used
+The hackathon organizers provided templates to participants based on their roll numbers. My roll number ends with **8**, and I was assigned the "Comforty" eCommerce template, recommended by **Sir Hamzah Syed**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🌐 How to View the Project
+You can view the completed project using the following link:  
+[Project Link](#) <!-- Replace with the actual project link -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📌 Notes
+- This project demonstrates the ability to work under strict time constraints and deliver high-quality output.
+- It emphasizes the effective use of modern web development tools and frameworks.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📝 Feedback
+Feel free to explore the project and share your feedback! Comments and suggestions are always welcome.
+
+---
+
+### Tags
+`Hackathon` `UI/UX Design` `Next.js` `Tailwind CSS` `Responsive Design`
